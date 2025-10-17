@@ -1,5 +1,5 @@
 const App = () => {
-	return <div>Gestion des taches</div>;
+	return <div className="text-primary text-5xl">Gestion des taches</div>;
 };
 
 export default App;
